@@ -17,7 +17,6 @@ import kotlinx.serialization.json.Json
 import org.selostudios.elmarketo.data.remote.dto.CoinList
 import org.selostudios.elmarketo.data.remote.error.ApiError
 import org.selostudios.elmarketo.data.remote.error.ApiException
-import java.lang.RuntimeException
 
 internal val json = Json {
     isLenient = true
