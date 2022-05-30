@@ -1,4 +1,4 @@
-package org.selostudios.elmarketo.data.remote.dto
+package org.selostudios.elmarketo.data.remote.dto.coins
 
 import kotlinx.serialization.Serializable
 
